@@ -290,11 +290,11 @@ return [
                 ],
             ],
         ],
-        ['header' => 'labels'],
+        ['header' => 'Catálogos'],
         [
-            'text'       => 'important',
+            'text'       => 'Clientes',
             'icon_color' => 'red',
-            'url'        => '#',
+            'url'        => 'customers',
         ],
         [
             'text'       => 'warning',
